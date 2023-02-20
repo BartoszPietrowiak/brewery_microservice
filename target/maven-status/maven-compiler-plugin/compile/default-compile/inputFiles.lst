@@ -1,0 +1,11 @@
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/domain/Beer.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/bootstrap/BeerLoader.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/MiscroserviceApplication.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/web/controller/MvcExceptionHandler.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/web/mappers/BeerMapper.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/web/controller/BeerController.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/web/model/BeerDto.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/repositories/BeerRepository.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/web/model/BeerPagedList.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/web/mappers/DateMapper.java
+/home/users/bpietrowiak/Spring_microservices/brewery_microservice/src/main/java/com/brewery/miscroservice/web/model/BeerStyleEnum.java

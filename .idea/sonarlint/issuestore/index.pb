@@ -5,5 +5,3 @@ z
 Jsrc/test/java/com/brewery/miscroservice/MiscroserviceApplicationTests.java,c/6/c6bae78f13c6c81acbe09a310265ad307e065c31
 t
 Dsrc/main/java/com/brewery/miscroservice/web/model/BeerStyleEnum.java,d/0/d0cd80c4d3609011ef497882520b6c1cf1ca4dfc
-~
-Nsrc/test/java/com/brewery/miscroservice/web/controller/BeerControllerTest.java,2/9/290a7de836c6898401afbfafc11b3cc6ef341e76
