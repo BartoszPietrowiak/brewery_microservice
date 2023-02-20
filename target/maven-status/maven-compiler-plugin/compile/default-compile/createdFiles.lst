@@ -1,13 +1,16 @@
 com/brewery/miscroservice/web/mappers/BeerMapper.class
 com/brewery/miscroservice/web/mappers/BeerMapperImpl.class
+com/brewery/miscroservice/services/BeerService.class
 com/brewery/miscroservice/domain/Beer.class
 com/brewery/miscroservice/web/model/BeerPagedList.class
+com/brewery/miscroservice/services/BeerServiceImpl.class
 com/brewery/miscroservice/web/controller/BeerController.class
 com/brewery/miscroservice/domain/Beer$BeerBuilder.class
 com/brewery/miscroservice/MiscroserviceApplication.class
 com/brewery/miscroservice/repositories/BeerRepository.class
 com/brewery/miscroservice/web/model/BeerStyleEnum.class
 com/brewery/miscroservice/bootstrap/BeerLoader.class
+com/brewery/miscroservice/web/controller/NotFoundException.class
 com/brewery/miscroservice/web/model/BeerDto.class
 com/brewery/miscroservice/web/model/BeerDto$BeerDtoBuilder.class
 com/brewery/miscroservice/web/controller/MvcExceptionHandler.class
