@@ -1,11 +1,12 @@
 package com.brewery.miscroservice.domain;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.UpdateTimestamp;
 
+import javax.persistence.Entity;
 import java.math.BigDecimal;
 import java.sql.Timestamp;
 import java.util.UUID;
